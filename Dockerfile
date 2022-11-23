@@ -1,6 +1,6 @@
-FROM node:18-alpine3.15 AS template-react
+FROM node:18-alpine3.15 AS onboarding-admin
 
-WORKDIR /template-react
+WORKDIR /onboarding-admin
 
 RUN ls
 

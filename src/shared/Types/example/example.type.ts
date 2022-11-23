@@ -1,3 +1,3 @@
 export interface Example{
-    trye: string;
+    name: string;
 }

@@ -1,3 +1,3 @@
 export const index = () => {
-	console.log('Components');
-}
+  console.log("Components");
+};

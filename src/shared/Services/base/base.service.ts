@@ -1,4 +1,5 @@
 import { http } from "../../../middelware/index";
+
 export default class BaseService {
   getAll() {
     return http.get<any[]>("/example");
